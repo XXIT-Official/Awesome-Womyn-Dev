@@ -15,9 +15,8 @@ List of awesome women developer
 
 
 # 기여 Contributing
-- The names on the list are in alphabetical order.
-- 리스트의 이름들은 영어 알파벳순으로 되어있습니다.
-- Send Pull Request.
+- 리스트의 이름들은 등록 순으로 되어있습니다.
+- Send Pull Request. [How?](https://github.com/XXIT-Official/Awesome-Womyn-Dev/wiki/How-to-Contribute%3F-:-Awesome-Womyn-Dev%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0)
 
 
 <!-- Please don't remove this: Icons From https://github.com/neilorangepeel/Free-Social-Icons -->

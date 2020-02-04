@@ -1,4 +1,4 @@
-# :frowning_woman: Awesome Women Dev
+# 🙋 Awesome Women Dev
 List of awesome women developer
 
 ![pic](https://i.ibb.co/j67RvR5/Awesome-Womyn-Developer.png)

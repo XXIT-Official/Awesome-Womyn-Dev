@@ -13,7 +13,7 @@ List of awesome women developer
 | Daheen Dana Lee | iOS | [![github]](https://github.com/daheenallwhite) [![blog]](https://daheenallwhite.github.io) |
 | Hako | Java, Back-end, openSource | [![github]](https://github.com/OHHAKO) |
 | Hyena | Web, IOS | [![blog]](https://hyena.life/) [![mail]](catnaro16@gmail.com) |
-
+| younah Shin | javascript, java, oracle, mysql | [![github]](https://github.com/younahshin-dev)  |
 
 
 # 기여 Contributing
